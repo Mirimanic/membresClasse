@@ -21,7 +21,7 @@ public class App {
         System.out.println("id obj "+ obj2LC.get_LC_Id()); 
         System.out.println("id obj "+ obj3LC.get_LC_Id());
         System.out.println("dernier id cree : "+Compteur_lire_clavier.get_LC_IdMax()); 
-        System.out.println("essaie git");
+        System.out.println("essaie gi jjjjjt");
         
     }
 }
